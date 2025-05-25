@@ -1,0 +1,236 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.2435924982352218,
+    "test_accuracy": 98.4,
+    "test_loss": 0.046650355122983454,
+    "model_path": "./models/mnist_cnn_epoch_1.pth",
+    "timestamp": "2025-05-25T11:47:31.505946",
+    "device": "cpu"
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.09665958980904586,
+    "test_accuracy": 99.05,
+    "test_loss": 0.028927434235811234,
+    "model_path": "./models/mnist_cnn_epoch_2.pth",
+    "timestamp": "2025-05-25T11:48:31.171346",
+    "device": "cpu"
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.07751749937215557,
+    "test_accuracy": 99.18,
+    "test_loss": 0.026593337394297124,
+    "model_path": "./models/mnist_cnn_epoch_3.pth",
+    "timestamp": "2025-05-25T11:49:30.417389",
+    "device": "cpu"
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.06655742116456133,
+    "test_accuracy": 99.33,
+    "test_loss": 0.019085650611668826,
+    "model_path": "./models/mnist_cnn_epoch_4.pth",
+    "timestamp": "2025-05-25T11:50:31.890749",
+    "device": "cpu"
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.06438036473194407,
+    "test_accuracy": 99.15,
+    "test_loss": 0.024827882833778857,
+    "model_path": "./models/mnist_cnn_epoch_5.pth",
+    "timestamp": "2025-05-25T11:51:33.409528",
+    "device": "cpu"
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.055289219063433655,
+    "test_accuracy": 99.31,
+    "test_loss": 0.02205570163205266,
+    "model_path": "./models/mnist_cnn_epoch_6.pth",
+    "timestamp": "2025-05-25T11:52:36.078801",
+    "device": "cpu"
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.05640133981829259,
+    "test_accuracy": 99.29,
+    "test_loss": 0.020138275902718307,
+    "model_path": "./models/mnist_cnn_epoch_7.pth",
+    "timestamp": "2025-05-25T11:53:40.477073",
+    "device": "cpu"
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.05612903891292873,
+    "test_accuracy": 99.42,
+    "test_loss": 0.021003706380724907,
+    "model_path": "./models/mnist_cnn_epoch_8.pth",
+    "timestamp": "2025-05-25T11:54:42.835599",
+    "device": "cpu"
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.053899589246873665,
+    "test_accuracy": 99.31,
+    "test_loss": 0.019462984125129878,
+    "model_path": "./models/mnist_cnn_epoch_9.pth",
+    "timestamp": "2025-05-25T11:55:46.347062",
+    "device": "cpu"
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.04824870982216542,
+    "test_accuracy": 99.3,
+    "test_loss": 0.02093909028917551,
+    "model_path": "./models/mnist_cnn_epoch_10.pth",
+    "timestamp": "2025-05-25T11:56:49.677357",
+    "device": "cpu"
+  },
+  {
+    "epoch": 11,
+    "train_loss": 0.032863825167241845,
+    "test_accuracy": 99.59,
+    "test_loss": 0.01356542609864846,
+    "model_path": "./models/mnist_cnn_epoch_11.pth",
+    "timestamp": "2025-05-25T11:57:52.383546",
+    "device": "cpu"
+  },
+  {
+    "epoch": 12,
+    "train_loss": 0.029180139578762962,
+    "test_accuracy": 99.53,
+    "test_loss": 0.013486451038625091,
+    "model_path": "./models/mnist_cnn_epoch_12.pth",
+    "timestamp": "2025-05-25T11:58:56.421724",
+    "device": "cpu"
+  },
+  {
+    "epoch": 13,
+    "train_loss": 0.027386874692682833,
+    "test_accuracy": 99.5,
+    "test_loss": 0.01421541809104383,
+    "model_path": "./models/mnist_cnn_epoch_13.pth",
+    "timestamp": "2025-05-25T11:59:59.260878",
+    "device": "cpu"
+  },
+  {
+    "epoch": 14,
+    "train_loss": 0.0247433248131391,
+    "test_accuracy": 99.58,
+    "test_loss": 0.013312768685864285,
+    "model_path": "./models/mnist_cnn_epoch_14.pth",
+    "timestamp": "2025-05-25T12:01:01.330578",
+    "device": "cpu"
+  },
+  {
+    "epoch": 15,
+    "train_loss": 0.026208620617423815,
+    "test_accuracy": 99.58,
+    "test_loss": 0.013414919702336192,
+    "model_path": "./models/mnist_cnn_epoch_15.pth",
+    "timestamp": "2025-05-25T12:02:04.295861",
+    "device": "cpu"
+  },
+  {
+    "epoch": 16,
+    "train_loss": 0.02340587967969373,
+    "test_accuracy": 99.62,
+    "test_loss": 0.012304970109835268,
+    "model_path": "./models/mnist_cnn_epoch_16.pth",
+    "timestamp": "2025-05-25T12:03:05.827839",
+    "device": "cpu"
+  },
+  {
+    "epoch": 17,
+    "train_loss": 0.024713198707845094,
+    "test_accuracy": 99.51,
+    "test_loss": 0.013679226650856436,
+    "model_path": "./models/mnist_cnn_epoch_17.pth",
+    "timestamp": "2025-05-25T12:04:07.745062",
+    "device": "cpu"
+  },
+  {
+    "epoch": 18,
+    "train_loss": 0.02219197363297923,
+    "test_accuracy": 99.5,
+    "test_loss": 0.01366895524552092,
+    "model_path": "./models/mnist_cnn_epoch_18.pth",
+    "timestamp": "2025-05-25T12:05:09.815968",
+    "device": "cpu"
+  },
+  {
+    "epoch": 19,
+    "train_loss": 0.023651855779788282,
+    "test_accuracy": 99.58,
+    "test_loss": 0.013287945510819554,
+    "model_path": "./models/mnist_cnn_epoch_19.pth",
+    "timestamp": "2025-05-25T12:06:11.798647",
+    "device": "cpu"
+  },
+  {
+    "epoch": 20,
+    "train_loss": 0.0220792198068783,
+    "test_accuracy": 99.56,
+    "test_loss": 0.013351883518043905,
+    "model_path": "./models/mnist_cnn_epoch_20.pth",
+    "timestamp": "2025-05-25T12:07:13.363330",
+    "device": "cpu"
+  },
+  {
+    "epoch": 21,
+    "train_loss": 0.02190661415459463,
+    "test_accuracy": 99.57,
+    "test_loss": 0.012943083106074482,
+    "model_path": "./models/mnist_cnn_epoch_21.pth",
+    "timestamp": "2025-05-25T12:08:28.653487",
+    "device": "cpu"
+  },
+  {
+    "epoch": 22,
+    "train_loss": 0.02176460794842507,
+    "test_accuracy": 99.58,
+    "test_loss": 0.012991710705682636,
+    "model_path": "./models/mnist_cnn_epoch_22.pth",
+    "timestamp": "2025-05-25T12:09:43.447256",
+    "device": "cpu"
+  },
+  {
+    "epoch": 23,
+    "train_loss": 0.02104538182562864,
+    "test_accuracy": 99.58,
+    "test_loss": 0.012643942807335407,
+    "model_path": "./models/mnist_cnn_epoch_23.pth",
+    "timestamp": "2025-05-25T12:10:46.977307",
+    "device": "cpu"
+  },
+  {
+    "epoch": 24,
+    "train_loss": 0.02024740116123526,
+    "test_accuracy": 99.58,
+    "test_loss": 0.012907229270786047,
+    "model_path": "./models/mnist_cnn_epoch_24.pth",
+    "timestamp": "2025-05-25T12:11:49.809401",
+    "device": "cpu"
+  },
+  {
+    "epoch": 25,
+    "train_loss": 0.020351869039990103,
+    "test_accuracy": 99.59,
+    "test_loss": 0.012791855342220515,
+    "model_path": "./models/mnist_cnn_epoch_25.pth",
+    "timestamp": "2025-05-25T12:12:52.302672",
+    "device": "cpu"
+  },
+  {
+    "epoch": 26,
+    "train_loss": 0.019161349528025822,
+    "test_accuracy": 99.59,
+    "test_loss": 0.012633433134760707,
+    "model_path": "./models/mnist_cnn_epoch_26.pth",
+    "timestamp": "2025-05-25T12:13:54.332389",
+    "device": "cpu"
+  }
+]
